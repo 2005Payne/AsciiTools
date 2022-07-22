@@ -1,4 +1,20 @@
-# AsciiTools
+# AsciiTools 
+<h1>=====실행=====</h1>
+실행을 하면 안내 문자가 뜬다.
+<img src="./img/1.png">
+2번을 선택하여 문자열을 입력한다
+<img src="./img/2.png">
+문자열을 16진수 아스키 코드로 바꾼 결과가 나온다.
+<br> 그 결과는 클립보드에 바로 저장된다.
+<img src="./img/3.png">
+아무키나 눌러서 나오면 다시 안내문자가 나온다.
+<br>이번에는 1번을 선택하고
+<img src="./img/1.png">
+아까 클립보드에 저장된 16진수 아스키코드를 붙여넣기 한다
+<img src="./img/5.png">
+이번 결과도 클립보드에 저장된다.
+<img src="./img/6.png">
+
 ```python
 import clipboard
 
